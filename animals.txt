@@ -4,3 +4,4 @@ Bird
 Caterpillar
 Sheep
 Fish
+Horse
