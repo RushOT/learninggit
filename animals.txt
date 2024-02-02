@@ -1,2 +1,6 @@
 Dog
 Cat
+Bird
+Caterpillar
+Sheep
+Fish
